@@ -8,4 +8,4 @@ def kurang(a, b):
 
 # Panggil
 print(tambah(5, 3))   # 8
-print(kurang(5, 3))   # 2
+print(kurang(8, 4))   # 2
